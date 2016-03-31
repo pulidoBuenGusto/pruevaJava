@@ -16,6 +16,6 @@ public class main {
     
     crearLaRed r = new crearLaRed();
     r.setLocationRelativeTo(null);
-    r.setTitle("Crea tu red virtual");
+    r.setTitle("ohh yeahh :)");
 }
 }
